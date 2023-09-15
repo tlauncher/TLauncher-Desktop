@@ -1,4 +1,5 @@
 The TLauncher desktop code is for browsing and research only, no support.
+
 Код десктоп TLauncher только для просмотра и изучения, никакого саппорта.
 TLauncher masaüstü kodu yalnızca göz atma ve araştırma içindir, destek yoktur.
 TLauncher 桌面代码仅用于浏览和研究，不提供支持。
